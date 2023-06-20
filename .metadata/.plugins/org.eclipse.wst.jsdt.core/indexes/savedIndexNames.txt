@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+D:\xampp\htdocs\CRUDJava\crudjspjava\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
